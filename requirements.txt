@@ -54,7 +54,7 @@ datashape==0.5.4
 decorator==4.3.0
 dill==0.2.9
 distributed==1.21.8
-Django==2.1.7
+Django==2.2.10
 djongo==1.2.32
 dm-sonnet==1.27
 docker==3.7.2
