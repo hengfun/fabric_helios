@@ -14,7 +14,7 @@ async-generator==1.10
 atari-py==0.1.7
 attrs==18.1.0
 Automat==0.7.0
-Babel==2.5.3
+Babel==2.9.1
 backcall==0.1.0
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.6.0
