@@ -129,7 +129,7 @@ ll-xist==5.43
 llvmlite==0.23.1
 locket==0.2.0
 lxml==4.2.1
-Mako==1.0.8
+Mako==1.2.2
 Markdown==3.0.1
 MarkupSafe==1.0
 mask-rcnn==2.1
